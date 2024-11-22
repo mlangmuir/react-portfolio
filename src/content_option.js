@@ -1,18 +1,13 @@
-const logotext = "JOHN";
+const logotext = "CL";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Corinne Langmuir",
+    description: "I’m Corinne Langmuir data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
-    animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
-    },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    title: "Corinne Langmuir",
+    description: "Director, screenwriter and editor.",
+    your_img_url: "https://res.cloudinary.com/didxdrmjj/image/upload/v1732252836/Screenshot_2024-11-22_at_12.16.29_AM_slkkuh.png",
 };
 
 const dataabout = {
