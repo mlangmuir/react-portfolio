@@ -1,7 +1,7 @@
 const logotext = "CL";
 const meta = {
     title: "Corinne Langmuir",
-    description: "I’m Corinne Langmuir data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I’m Corinne Langmuir",
 };
 
 const introdata = {
@@ -11,61 +11,54 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "My Story",
+    aboutme: "I’m Corinne Langmuir, a Taiwanese-Canadian filmmaker based in Vancouver, Canada. I began my journey in experimental dance film but have since transitioned into the captivating world of narrative filmmaking. My current work explores themes of impermanence and the boundaries of personal agency.",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
+
+const filmfestivals = [
+    {
+        title: "Vancouver Asian Film Festival (VAFF)",
+        where: "Vancouver",
+        date: "2024",
+    },
+    {
+        title: "IGNITE! Youth Arts Festival",
+        where: "Vancouver",
+        date: "2024",
+    },
+    {
+        title: "Toronto Reel Asian International Film Festival",
+        where: "Toronto",
+        date: "2023",
+    },
+    {
+        title: "Femme Fatale Film Festival",
+        where: "Toronto",
+        date: "2022",
+    },
+    {
+        title: "Concordia Film Festival (CFF)",
+        where: "Montreal",
+        date: "2022",
+    },
+    {
+        title: "Cascadia Dance & Cinema Festival",
+        where: "Vancouver",
+        date: "2021",
+    },
+    {
+        title: "Festival of Recorded Movement (F-O-R-M)",
+        where: "Vancouver",
         date: "2020",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
 ];
 
-const skills = [{
-        name: "Python",
-        value: 90,
-    },
+const awards = [
     {
-        name: "Djano",
-        value: 85,
+        title: "Audience Choice Award (Festival of Recorded Movement)",
+        date: "2020",
     },
-    {
-        name: "Javascript",
-        value: 80,
-    },
-    {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
-    },
-];
-
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-];
+]
 
 const dataportfolio = [{
         title: "The Official Guidebook to Lying",
@@ -89,8 +82,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "corinnelangmuir@gmail.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Thank you for visiting my portfolio! Whether you're interested in collaborating on a film, hiring me for a project, or just want to share your thoughts, I’d love to hear from you.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -98,21 +90,13 @@ const contactConfig = {
     YOUR_USER_ID: "user_id",
 };
 
-const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
-};
 export {
     meta,
     dataabout,
     dataportfolio,
-    worktimeline,
-    skills,
-    services,
+    filmfestivals,
+    awards,
     introdata,
     contactConfig,
-    socialprofils,
     logotext,
 };
