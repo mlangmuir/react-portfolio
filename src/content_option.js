@@ -68,70 +68,27 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        title: "The Official Guidebook to Lying",
+        img: "https://res.cloudinary.com/didxdrmjj/image/upload/v1733607553/Screenshot_2024-12-07_at_4.38.23_PM_jfpi9s.png",
+        description: "A lifetime of abusing his natural talent for making up stories has led an arrogant serial liar to quit his deceiving ways forever. As a final hurrah, this scrappy university student shares an epic 11-minute masterclass on how to execute the perfect lie.",
+        link: "https://vimeo.com/881243374",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        title: "Forest Fire",
+        img: "https://res.cloudinary.com/didxdrmjj/image/upload/v1733607254/Screenshot_2024-12-07_at_3.33.54_PM_wlnpai.png",
+        description: "Forest Fire follows the story of a young girl trying to move on from her self-destructive tendencies. Performer Erin Lum dances to Mitski’s “A Burning Hill” in an enclosed forest, mirroring the feeling of the world closing in. Throughout this restorative time of growth and understanding, she begins to appreciate the “littler things” in life: the way the rustling leaves seem to dance with her, or how the soil under her feet seem to guide her. She is grounded, dignified, and stands tall alongside the trees.",
+        link: "https://vimeo.com/523452963",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+        title: "Zì Jǐ",
+        img: "https://res.cloudinary.com/didxdrmjj/image/upload/v1733607493/Screenshot_2024-12-07_at_4.37.45_PM_ixvtxe.png",
+        description: "Zì Jǐ [zìjǐ, 自己], meaning ‘Self’ in Mandarin, is an introspective dance short depicting the ambiguous beauty of solitude. The film explores a sense of racial melancholia that follows our protagonist as she navigates an intimately distant relationship with numbness. She is pushed into a period of self-reflection felt as bleak, lonely, and permanent, yet through emotional exploration the feeling of permanence wavers. This harrowing journey demands more of her than she has to offer. Surrendering, she comes to find loneliness is natural and solitude is man-made.",
+        link: "https://vimeo.com/457042549",
+    }
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
+    YOUR_EMAIL: "corinnelangmuir@gmail.com",
     YOUR_FONE: "(555)123-4567",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
